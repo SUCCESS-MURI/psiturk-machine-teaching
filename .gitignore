@@ -1,0 +1,15 @@
+*.pyc
+.csv
+.idea/
+*.log
+participants.db
+.psiturk_history
+config.txt
+venv/
+temp/
+*~
+*.csv
+*.png
+.DS_Store
+chromedriver
+
