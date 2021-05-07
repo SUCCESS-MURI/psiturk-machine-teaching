@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+*.log
+.psiturk_history
+config.txt
+*~
+*.png
+.DS_Store
+chromedriver

@@ -1,0 +1,64 @@
+Key,,3,1,"I don't believe this video is as informative as the other ones because I think it should clarify the following situation: if Chip has to move the same amount of 'houses' to go to one of the circles, which one would he go to? Because we've only seen Chip going into the green circle but is that because the green is 'better' than the gray or did it choose the green circle because it was the nearer circle?"
+1 = IRL,,2,2,Goal seems to be to get to the grey square and avoid everything else
+2 = IL,,2,1,Not sure if the goal is the nearest ring or the green ring
+3 = Unclear,,3,1,I'm not sure at this stage why the robot would choose to go to one ring over another.
+,,1,1,I'm still not sure how any of these affect point values or such
+,,2,2,I think there is no reason to pick up the bar if its not on the way
+,,1,2,Deliver the circle is priority i guess
+,,3,1,The study required a certain amount of inference from me rather than following explicit instructions.
+,,1,1,"This was a really interesting survey, I like the aspect of it as some sort of a guessing game trying to find out reward values and such, thank you for this opportunity!"
+,,2,2,The primary 'mental effort' was in memorising the patterns of each level/stage and matching the optimal movements for them.
+,,1,1,The role of the yellow squares in affecting my score was somewhat confusing in these demonstrations.
+,,2,3,I did it mostly by intuition after analyzing the puzzles for a brief moment.
+,,3,3,After completing some of the puzzles I realized it was better to probably exit some of them.
+,,3,3,After some examples I feel like I'm understanding way better these puzzles.
+,,3,3,Slowly i understand the game more and more
+,,3,3,"I'm honestly really puzzled by these games, I hope the next page will explain the scoring."
+,,3,3,"It took me a bit to understand how it works, but as soon i got it, it was a great game"
+,,1,1,"I was unsure why chip decided to exit or decided to choose x or y path. It was pretty confusing. In one instance though with the board covered in yellow, I assumed chip would end up with a pretty negative score so chip exited. Overall though, it is confusing."
+,,1,1,"I´m not sure what the best strategy is, because I don´t don´t know the value of the circles"
+,,1,1,I think moving without the orange square take more points but i´m not sure
+,,3,2,JUst will be hard to understand when to quit or when to pick or not the orange line but i will do my best
+,,1,1,not sure whether i get taxed going into the yellow squares
+,,3,3,"I think it's not as informative as the first one, there are a lot more of movements, sometimes it picked the red rectangule sometimes it didn't, so I'm still trying to think when to pick and when don't pick it. "
+,,2,2,"I'm kind of puzzled, do I have to take one ring to another if possible? "
+,,1,1,Well the only thing really missing is the amount of points each action does
+,,1,1,"I was trying to attribute values to the rings but weren't able, just saw that green > grey"
+,,1,3,I think the green ring is better than the gray ring? 
+,,1,1,I chosen Moderately informative in first question because I am not sure if there were enough differnent possibilities shown in demonstrations to assess how many points we get for specififc action.
+,,1,1,I think going to the square earns & moving with the rectangle. I *think* moving without the rectangle loses points...
+,,1,1,I think the both rings are rewarding (green>grey) but moving is negative.
+,,3,2,"Deliver circle good, yellow squares bad"
+,,3,3,Confused a bit about which is the best ring to go to in some of these examples
+,,3,3,"The videos were moderately informative but did not explain rules at all, so I have to depend on my own interpretation which may, or may not, be correct. But that's the stated purpose I think."
+,,1,1,I did not truly understood why green circle is preferred (worth more points?) but gray one is acceptable as well sometimes (getting to green would be too costly and getting to gray would make less profit but still better than quitting?)
+,,2,2,"I did not understand the rule regarding yellow tiles. It seems they should be avoided, but not always. Interesting..."
+,,1,1,"If I would be able to see the demonstrations back and forth I would eventually get there, not a specific scoreline but within limits. For instance, the last demonstration tells me that if moving is -1, then scoring must be higher than 8 since chip went for it"
+,,1,1,"Ok, so this time around I got way better because I didn't get it the first time. Also, this puzzle is easier since there are basically only two variables. Since this is a comparison between green and gray, I did a mathematical system on paint and got the information I needed. I'm still unsure about the exact values but my calculations tell me that if moving is -1, then gray is around +6 and green is around +10. This is all based on the system I've come up with. For example, if Chip would move to green in 8 moves, that tells me that moveValue * 8 + greenValue is positive, and since I'm assuming moving is -1, then this means greenValue - 8 > 0 which means greenValue > 8."
+,,1,1,"a = yellow value, b = white value, c = objective value. 
+1) a + 8b + c > 0
+2) 2a + 4b + c > 0
+3) 2a + 6b + c > 0
+4) 6a + 2b + c < 0
+5) 5a + 5b + c > 0
+
+if b = - 1 then 
+1) a + c - 8 > 0 
+2) 2a + c - 4 > 0
+3) 2a + c - 6 > 0
+4) 6a + c - 2 < 0
+5) 5a + c - 5 > 0
+
+with this equations overlapped this tells me that 
+a <= -3
+c >= 20
+so moving to yellow is -3, getting objective is 20, assuming white is -1"
+,,1,1,You need to make a moderate amount of mental effort to understand all the rules and outweight everything and see what is worth it or not in the game.
+,,1,1,I think this left me very puzzled because it wasn't easy to differentiate the value of the rings.
+,,1,1,This required a significant effort to understand the value of the square.
+,,3,3,I'm not sure about which ring I should prioritize.
+,,1,1,"So, the yellow squares should be avoided if possible and they possibly remove 2 points when crossed but I'm not sure"
+,,3,2,I couldn't understand in which case it was better to pick up the rectangle.
+,,1,1,"I wonder for one of the instances where the orange rectangle was very few moves away (i.e., 3 or fewer) and would be with Chip for all the remaining moves until reaching the gray square how the game points would play out. Actions taken with the orange rectangle and actions without taking the orange rectangle both affect the score, but I am not sure how (which is positive or negative). "
+,,1,1,"Sometimes Chip grabbed the circle in more moves than necessary to retrieve it and bring it back to purple square. For another, when choosing to grab the circle, Chip moved onto white squares instead of yellow squares. Moving into a yellow square would be an action that affects the score, but in what way? This demonstration would imply negatively. "
+,,1,1,"I think that score system should be explained right away with new ""mechanic"". Yellow squares made me wonder if they're -2 but I could only guess"
